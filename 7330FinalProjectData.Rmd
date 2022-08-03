@@ -1,0 +1,82 @@
+---
+title: "7330 Final Project Data Stuff"
+author: "Chad Kwong"
+date: '2022-07-21'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+path = "/Users/chadkwong/Desktop/7330ProjectData.csv"
+
+df = read.csv(path, header = TRUE)
+
+head(df)
+#WISC_Num	Origin_Num	Samlpe Location 1	Sample Location 2	Continent	Country	State	Protected_Status	Family	Genus	Species	Remarks	Lat (N)	Long (W	Authority	Eminent_Org	Collector	Source_Type	Collection_Date	NFWFL_Analyzed
+x = c(1,2,3,4,6,7,8,10,11,12,13,15,17,18,20,23,24,25,26,31,28,34)
+df2 = df[,x]
+df2[is.na(df2)] <- "Not Recorded"
+df2$RowNames = rownames(df2)
+df2[df2 == ""] = "Not Recorded"
+df2[df2=="#REF!"] = "Not Recorded"
+head(df2)
+```
+
+Taxonomy Table
+```{r}
+fgs = df2[,c(9,10,11)]
+fgs2 = unique(fgs)
+fgs2$TaxonomyID = seq(from = 1, to = length(fgs2$Family))
+Taxonomy = fgs2
+Taxonomy
+write.csv(Taxonomy,"/Users/chadkwong/Desktop/Data/Taxonomy.csv", row.names = FALSE)
+```
+
+In House Location
+```{r}
+InHouseLocation = df2[,c(3,4)]
+InHouseLocation = unique(InHouseLocation)
+InHouseLocation$PhysLocID = seq(from=1, to=length(InHouseLocation$Samlpe.Location.1))
+InHouseLocation
+write.csv(InHouseLocation,"/Users/chadkwong/Desktop/Data/InHouseLocation.csv")
+```
+
+GeoLocations
+```{r}
+GeoLocations = df2[,c(5,6,7)]
+GeoLocations = unique(GeoLocations)
+GeoLocations$GeoLocationID = seq(from=1,to=length(GeoLocations$State))
+GeoLocations
+write.csv(GeoLocations,"/Users/chadkwong/Desktop/Data/GeoLocations.csv")
+```
+```{r}
+Collections = df2[,c(19,17)]
+Collections = unique(Collections)
+Collections$CollectionID = seq(from=1, to=length(Collections$Collector))
+Collections
+write.csv(Collections,"/Users/chadkwong/Desktop/Data/Collections.csv")
+```
+
+```{r}
+OriginDetails = df2[,c(16,18)]
+OriginDetails = unique(OriginDetails)
+OriginDetails$OriginID = seq(from=1, to=length(OriginDetails$Eminent_Org))
+OriginDetails
+write.csv(OriginDetails,"/Users/chadkwong/Desktop/Data/OriginDetails.csv")
+```
+
+```{r}
+Samples = df2
+length(df2$WISC_Num)
+Samples2 = left_join(Samples,Taxonomy)
+Samples2 = left_join(Samples2,OriginDetails)
+Samples2 = left_join(Samples2,Collections)
+Samples2 = left_join(Samples2,GeoLocations)
+Samples2 = left_join(Samples2,InHouseLocation)
+finalSamples = Samples2[,c(1,2,12,21,22,13,14,23,9,10,11,24,25,26,27,28)]
+finalSamples
+write.csv(finalSamples, "/Users/chadkwong/Desktop/Data/Samples.csv")
+```
