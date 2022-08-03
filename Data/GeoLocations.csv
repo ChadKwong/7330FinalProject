@@ -1,0 +1,356 @@
+"","Continent","Country","State","GeoLocationID"
+"1","North America","USA","New York",1
+"2","North America","USA","Minnesota",2
+"3","North America","USA","Wisconsin",3
+"4","North America","USA","Maine",4
+"5","North America","Canada","Vancouver",5
+"6","North America","USA","Washington",6
+"7","North America","USA","Idaho",7
+"8","North America","USA","Not Recorded",8
+"11","Asia","Laos","Attapeu",9
+"12","Asia","Laos","Vientiane",10
+"13","Oceania","Solomon Islands","Not Recorded",11
+"15","South America","Brazil","Ferreira Gomez",12
+"19","South America","Brazil","Macapa",13
+"20","South America","Brazil","Fierreira Gomez",14
+"55","Oceania","Solomon Islands","Kolombangara Island",15
+"168","North America","Canada","BC",16
+"193","North America","USA","Oregon",17
+"197","North America","USA","California",18
+"278","North America","USA","Vermont",19
+"285","Asia","Laos","Savannakhet",20
+"286","Asia","Laos","Khammouane",21
+"292","Asia","Laos","Bolikhamsay",22
+"297","Asia","Laos","Laos",23
+"298","South America","Peru","Iberia",24
+"300","Oceania","Solomon Islands","New Georgia Group",25
+"302","Central America","Mexico","Coatepec",26
+"303","Central America","Mexico","Chignahuapan",27
+"312","Oceania","Papua New Guinea","Kairuku-Hiri,",28
+"313","South America","Peru","Inapari",29
+"317","South America","Peru","Reserva Territorial Madre de Dios",30
+"320","South America","Peru","Nueva Requena",31
+"321","South America","Peru","Tahuamanu",32
+"324","South America","Colombia","Tolima",33
+"325","South America","Colombia1220","Tolima",34
+"338","Asia","Laos","Not Recorded",35
+"340","South America","Brazil","Terra Santa",36
+"342","South America","Brazil","Belterra",37
+"343","South America","Brazil","State of Para",38
+"346","South America","Brazil","Para",39
+"361","South America","Peru","Not Recorded",40
+"365","South America","Colombia1220","Santa Rosa de Cabal,",41
+"375","South America","Colombia1232","Tolima",42
+"376","South America","Colombia1233","Tolima",43
+"377","South America","Colombia1234","Tolima",44
+"378","South America","Colombia1235","Tolima",45
+"383","Africa","Gabon","Etimboue",46
+"386","Africa","Gabon","Ogooue-Lolo",47
+"393","Africa","Gabon","Moukalaba-Doudau National Park",48
+"394","Africa","Gabon","Ndolou",49
+"395","Africa","Gabon","Douya-Onoy",50
+"397","Africa","Gabon","Boumi-Louetsi",51
+"398","Africa","Gabon","Okano",52
+"399","Africa","Gabon","Lope",53
+"406","Africa","Gabon","Ogoulou",54
+"407","Africa","Gabon","Douigni",55
+"411","Africa","Gabon","Dissala",56
+"416","Africa","Gabon","Not Recorded",57
+"420","Africa","Cameroon","Ocean",58
+"450","Africa","Gabon","Mbigou",59
+"464","Africa","Gabon","lope",60
+"469","Oceania","Papua New Guinea","Central Province",61
+"485","Europe","Lithuania","Biržų girios biosferos poligonas",62
+"486","Europe","Lithuania","Andrioniškio",63
+"487","Europe","Lithuania","Dubingiai Eldership",64
+"488","Europe","Lithuania","Lukšių sen",65
+"489","Europe","Lithuania","Not Recorded",66
+"490","Europe","Lithuania","Kruopių sen",67
+"492","Europe","Lithuania","Zapyškio sen.",68
+"494","Europe","Lithuania","Kruopių sen.",69
+"495","Europe","Lithuania","Biržų girios biosferos poligonas,",70
+"497","Europe","Latvia","Liepupe Parish",71
+"498","Europe","Latvia","Selpils Parish",72
+"499","Europe","Latvia","Jaunpils Parish",73
+"500","Europe","Latvia","Karki",74
+"501","Europe","Latvia","Koceni Parish",75
+"502","Europe","Latvia","Auleja Parish",76
+"504","Not Recorded","Not Recorded","Not Recorded",77
+"519","South America","Colombia","Buenaventura",78
+"526","North America","USA","Alaska",79
+"568","South America","Colombia1220","Buenaventura",80
+"571","South America","Colombia1221","Buenaventura",81
+"572","Oceania","Solomon Islands","Vella Lavella Island",82
+"577","Oceania","Solomon Islands","Vonavona Island",83
+"582","Oceania","Solomon Islands","Guadalcanal",84
+"589","Oceania","Papua New Guinea","East New Britain",85
+"592","Oceania","Solomon Islands","Solomon Sea",86
+"604","South America","Colombia","Caicedonia, Valle del Cauca",87
+"605","South America","Colombia","Sevilla",88
+"614","South America","Peru","Industrial",89
+"615","South America","Peru","Tahuamanu Province",90
+"635","Oceania","Solomon Islands","Ringgi",91
+"653","Oceania","Solomon Islands","New Georgia",92
+"671","Asia","Laos","Xieng Khouang",93
+"677","South America","Brazil","Sao Paulo",94
+"708","South America","Peru","Iñapari",95
+"721","South America","Colombia","Santa Rosa de Cabal,",96
+"726","Asia","Laos","Sayabouri",97
+"755","South America","Colombia","Ibague",98
+"757","South America","Colombia1220","Valle del Cauca",99
+"758","South America","Colombia","Valle del Cauca",100
+"768","Asia","China","Nanping,Fujiian",101
+"798","Asia","India","Not Recorded",102
+"856","Oceania","Papua New Guinea","New Ireland",103
+"857","Oceania","Papua New Guinea","East New Britain Province",104
+"859","Oceania","Papua New Guinea","Marila Hill",105
+"866","Africa","Cameroon","Haut, Nyong",106
+"875","Africa","Cameroon","Mvila",107
+"880","Africa","Cameroon","Vallee du Ntem",108
+"882","Africa","Congo","Dongou",109
+"883","Africa","Congo","Ouesso",110
+"885","Africa","Congo","Sembe",111
+"888","Africa","Congo","Epena",112
+"894","Africa","Congo","Quesso",113
+"897","Africa","Congo","Sangha",114
+"904","Africa","Congo","P42",115
+"937","Africa","Congo","Makoua",116
+"988","Not Recorded","Not Recorded","Caribbean Sea",117
+"1022","South America","Colombia1221","Santa Rosa de Cabal,",118
+"1023","South America","Colombia1222","Santa Rosa de Cabal,",119
+"1024","South America","Colombia1223","Santa Rosa de Cabal,",120
+"1025","South America","Colombia1224","Santa Rosa de Cabal,",121
+"1026","South America","Colombia1225","Santa Rosa de Cabal,",122
+"1027","South America","Colombia1226","Santa Rosa de Cabal,",123
+"1028","South America","Colombia1227","Valle del Cauca",124
+"1029","South America","Colombia1228","Valle del Cauca",125
+"1030","South America","Colombia1229","Valle del Cauca",126
+"1031","South America","Colombia1230","Valle del Cauca",127
+"1032","South America","Colombia1231","Valle del Cauca",128
+"1075","Europe","Czech Republic","Not Recorded",129
+"1077","Oceania","Solomon Islands","North New Georgia Paradise Village",130
+"1106","Europe","Latvia","Juanberze Parish",131
+"1107","Europe","Latvia","Starinas mezs, Indras pagasts",132
+"1108","Europe","Latvia","Udrisi Parish",133
+"1109","Europe","Latvia","Rugaji Parish",134
+"1110","Europe","Latvia","Markalne Parish",135
+"1112","Europe","Latvia","Matkule Parish",136
+"1114","Europe","Latvia","Staiceles lauku teritorija",137
+"1115","Europe","Latvia","Zvarde parish",138
+"1117","Europe","Latvia","Jaunberze Parish",139
+"1121","Europe","Latvia","Staburags Parish",140
+"1122","Europe","Latvia","Limbazi Parish",141
+"1123","Europe","Latvia","Birzgale Parish",142
+"1125","Europe","Latvia","Lauciene Parish",143
+"1127","Europe","Latvia","Indra Parish",144
+"1129","Europe","Latvia","Nirza Parish",145
+"1130","Europe","Latvia","Zalesje Parish",146
+"1138","Europe","Latvia","Kursisi Parish",147
+"1158","South America","Colombia1220","Armero, Tolima",148
+"1180","South America","Brazil","Monte Alegre",149
+"1206","South America","Brazil","Sao Paula",150
+"1218","Central America","Mexico","San Salvador el Verde municipality",151
+"1227","Asia","Thailand","Haui Kayeng",152
+"1228","Asia","Thailand","Prasong",153
+"1230","Asia","Thailand","Na Dok Kham",154
+"1231","Asia","Thailand","Tha Kum, Trat",155
+"1235","Asia","Thailand","Bak Dong",156
+"1238","Asia","Thailand","Not Recorded",157
+"1243","Not Recorded","Not Recorded","Inapory",158
+"1246","Oceania","Papua New Guinea","Kairuku-Hiri",159
+"1247","Oceania","Papua New Guinea","West New Britain Province",160
+"1250","South America","Peru","Inaswietenioideshua",161
+"1274","Not Recorded","Not Recorded","Inicaican holly",162
+"1279","Oceania","Papua New Guinea","Talasea District",163
+"1284","Oceania","Solomon Islands","Pusisama",164
+"1292","Not Recorded","Not Recorded","Inaaernut ; white walnut",165
+"1293","South America","Colombia1220","Caicedonia, Valle del Cauca",166
+"1296","South America","Colombia1220","Sevilla",167
+"1300","Not Recorded","Not Recorded","Inaraican walnut",168
+"1301","Not Recorded","Not Recorded","Inarak walnut",169
+"1303","Africa","Gabon","Okana",170
+"1305","Not Recorded","Not Recorded","Inainianaern red cedar",171
+"1316","Not Recorded","Not Recorded","Inealisern larch",172
+"1325","Not Recorded","Not Recorded","Inayracifluagum; sweet gum",173
+"1326","Not Recorded","Not Recorded","Inayracifluatgum ; redgum",174
+"1327","North America","USA","Kentucky",175
+"1444","North America","USA","kentucky",176
+"1473","Not Recorded","Not Recorded","Inaulipiferaow poplar",177
+"1474","Not Recorded","Not Recorded","Inaulipiferaican tuliptree",178
+"1537","South America","Peru","Inendatumsangre, Aguanumasha, Urapu",179
+"1540","Not Recorded","Not Recorded","Inerae orange",180
+"1541","South America","Peru","Ineaciifoliumaco",181
+"1544","South America","Peru","Ineaciifoliumco",182
+"1546","Not Recorded","Not Recorded","Inanatamber magnolia",183
+"1549","Not Recorded","Not Recorded","Inapolia",184
+"1551","South America","Colombia1236","Cordoba",185
+"1592","Africa","Congo","Haut Nyong",186
+"1609","Not Recorded","Not Recorded","Ineramulberry",187
+"1647","Not Recorded","Not Recorded","Santa Rosa de Cabal,",188
+"1650","Not Recorded","Not Recorded","Ines densiflorusak",189
+"1651","Not Recorded","Not Recorded","Inalo gum",190
+"1652","Not Recorded","Not Recorded","Inaak tupelo",191
+"1653","Not Recorded","Not Recorded","Inadalea",192
+"1654","South America","Peru","Inaulataingo",193
+"1655","South America","Peru","Inapa",194
+"1656","South America","Colombia1237","Caicedonia, Valle del Cauca",195
+"1659","South America","Peru","Inepruro",196
+"1661","Not Recorded","Not Recorded","Ineanahornbeam",197
+"1663","South America","Colombia1220","Sevilla,Valle del Cauca",198
+"1668","Not Recorded","Not Recorded","Inaoreumwood",199
+"1713","Asia","China","Shunchang County",200
+"1720","Asia","China","Zhejiang",201
+"1725","Europe","Czech Republic","Dolni Krupa",202
+"1726","Europe","Czech Republic","Bily Kostel nad Nisou",203
+"1727","Europe","Czech Republic","Kostelec",204
+"1728","Europe","Czech Republic","Stihlice",205
+"1731","Europe","Czech Republic","Mecholupy",206
+"1733","Europe","Czech Republic","Cerna Hora",207
+"1734","Europe","Czech Republic","Prosicka",208
+"1735","Europe","Czech Republic","Temice",209
+"1737","Europe","Czech Republic","Prachatice",210
+"1738","Europe","Czech Republic","Byst",211
+"1740","Europe","Czech Republic","Namest na Hane",212
+"1741","Europe","Czech Republic","Luzna",213
+"1743","Europe","Czech Republic","Lubna",214
+"1744","Europe","Czech Republic","Rymarov",215
+"1746","Europe","Czech Republic","Nyrsko",216
+"1747","Europe","Czech Republic","Pila",217
+"1750","Europe","Czech Republic","Kralicky",218
+"1751","Europe","Czech Republic","Ostrovec",219
+"1755","Europe","Czech Republic","Lestkov",220
+"1762","North America","USA","Arizona",221
+"1766","North America","USA","Colorado",222
+"1767","Not Recorded","Not Recorded","Ineniiemann spruce",223
+"1768","Not Recorded","Not Recorded","Ineniilmann spruce",224
+"1769","North America","USA","Michigan",225
+"1773","North America","USA","Northa Carolina",226
+"1776","Not Recorded","Not Recorded","Ineisa spruce",227
+"1778","Not Recorded","Not Recorded","Inepern spruce",228
+"1779","Europe","United Kingdom","Not Recorded",229
+"1780","Central America","Mexico","Not Recorded",230
+"1784","Central America","Mexico","Tlahuapan Municipality",231
+"1800","Not Recorded","Not Recorded","Ineepole pine",232
+"1801","Not Recorded","Not Recorded","Ine varepole pine",233
+"1812","Not Recorded","Not Recorded","Ineanar pine",234
+"1815","Europe","Italy","Not Recorded",235
+"1816","Asia","China","Nanping, Fujian",236
+"1823","South America","Colombia","Risaralda",237
+"1847","Not Recorded","Not Recorded","Ineao white pine",238
+"1848","Not Recorded","Not Recorded","Inea OR Pinus strobusern white pine OR Eastern white pine",239
+"1849","Not Recorded","Not Recorded","Inesleaf pine",240
+"1894","Central America","Mexico","Durango",241
+"1897","North America","USA","New Mexico",242
+"1912","Not Recorded","Not Recorded","Ineaerosa pine",243
+"1932","Not Recorded","Not Recorded","Inepleaf pine",244
+"1933","Not Recorded","Not Recorded","Ineptleaf pine",245
+"1934","Not Recorded","Not Recorded","Ineushern white pine",246
+"1937","Not Recorded","Not Recorded","Incentalismore",247
+"1938","Not Recorded","Not Recorded","Incentalisican sycamore",248
+"1941","Oceania","Papua New Guinea","Marila",249
+"1967","Oceania","Solomon Islands","North Pacific Ocean",250
+"1971","Not Recorded","Not Recorded","Inepn",251
+"1972","Not Recorded","Not Recorded","Ineponwood",252
+"1973","Not Recorded","Not Recorded","Ineoidesing aspen",253
+"1977","Not Recorded","Not Recorded","Ineary",254
+"1978","Not Recorded","Not Recorded","Ineak cherry",255
+"1987","Not Recorded","Not Recorded","Inenziesiilas fir",256
+"1988","Not Recorded","Not Recorded","Inenziesiilas-fir",257
+"1990","Oceania","Solomon Islands","Guadalcanal Province",258
+"1993","Oceania","Papua New Guinea","Aroa River",259
+"1994","Not Recorded","Not Recorded","Patanga, Talasea District",260
+"2004","Asia","Thailand","Wiang Tan",261
+"2005","Asia","Thailand","Huai Kayeng",262
+"2009","Asia","Thailand","Tha Kum",263
+"2011","Asia","Thailand","Phetchabun",264
+"2012","Asia","Thailand","Kanchanaburi",265
+"2016","Asia","Thailand","Ta Kum",266
+"2017","Asia","Thailand","Inocrocarpusuk",267
+"2029","Africa","Cameroon","Haut",268
+"2051","Africa","Cameroon","Dja-Et-Lobo",269
+"2086","Oceania","Papua New Guinea","Central Provinve",270
+"2090","North America","USA","PA",271
+"2091","North America","USA","MI",272
+"2092","North America","USA","NH",273
+"2224","Not Recorded","Not Recorded","Inebae oak",274
+"2226","Europe","Spain","Leintz Gatzaga",275
+"2229","Europe","Spain","Sant Hilari Sacalm",276
+"2231","Europe","Spain","Valderredible",277
+"2235","Europe","Czech Republic","Chrarstava",278
+"2240","Europe","Latvia","Ineurish oak",279
+"2241","Europe","Spain","Arango",280
+"2243","Europe","Spain","Zuia",281
+"2246","Europe","Spain","Cabuerniga",282
+"2250","North America","USA","VT",283
+"2252","North America","USA","OH",284
+"2253","Not Recorded","Not Recorded","Ineraoak",285
+"2255","Not Recorded","Not Recorded","Inepe oak",286
+"2256","North America","USA","Inep",287
+"2257","Not Recorded","Not Recorded","Inepoak",288
+"2258","Not Recorded","Not Recorded","Ineacaciak locust",289
+"2259","Not Recorded","Not Recorded","Ineraow",290
+"2260","Not Recorded","Not Recorded","Inerak willow",291
+"2262","Not Recorded","Not Recorded","Inadumafras",292
+"2265","Oceania","Solomon Islands","Inerrata apple, pink birch",293
+"2268","Not Recorded","Not Recorded","Inavirensood",294
+"2269","Not Recorded","Not Recorded","Inavirenstal redwood",295
+"2276","South America","Peru","Inbapa",296
+"2280","South America","Colombia1238","Tolima",297
+"2281","South America","Colombia1239","Tolima",298
+"2282","South America","Colombia1240","Tolima",299
+"2283","South America","Colombia1241","Tolima",300
+"2284","South America","Colombia1242","Tolima",301
+"2285","South America","Colombia1243","Tolima",302
+"2292","South America","Colombia1244","Tolima",303
+"2293","South America","Colombia1245","Tolima",304
+"2294","South America","Colombia1246","Tolima",305
+"2295","South America","Colombia1247","Tolima",306
+"2296","South America","Colombia1248","Tolima",307
+"2328","Not Recorded","Not Recorded","Inaophyllaral American mahogany",308
+"2332","Not Recorded","Not Recorded","Inachumess",309
+"2333","Not Recorded","Not Recorded","Inachum cypress",310
+"2334","Not Recorded","Not Recorded","Ineiafic yew",311
+"2337","South America","Colombia1249","Tolima",312
+"2338","South America","Colombia1250","Tolima",313
+"2339","South America","Colombia1251","Tolima",314
+"2340","South America","Colombia1252","Tolima",315
+"2341","South America","Colombia1253","Tolima",316
+"2345","Asia","Thailand","Chon Daen District",317
+"2346","Asia","Thailand","Thong Pha Phum District",318
+"2347","Asia","Thailand","Tha Chana District, Surat Thani",319
+"2348","Asia","Thailand","Na Duang District",320
+"2349","Asia","Thailand","Khun Han District",321
+"2352","Asia","Thailand","Amphoe Hang Chat",322
+"2354","Asia","Thailand","Ta Chana District, Surat Thani",323
+"2358","Asia","Thailand","Tha Kum, Mueang Distict",324
+"2359","Asia","Thailand","Inas",325
+"2362","Not Recorded","Not Recorded","Inas",326
+"2367","South America","Peru","Nueva",327
+"2378","Oceania","Solomon Islands","Inassiip talis, Kopika",328
+"2379","Oceania","Solomon Islands","Inaamansanaih almond,
+False kamani",329
+"2380","South America","Peru","Ina grandisaba",330
+"2390","North America","USA","MT",331
+"2460","North America","USA","OR",332
+"2461","North America","USA","WA",333
+"2485","North America","USA","ID",334
+"2573","Not Recorded","Not Recorded","Inataern red cedar",335
+"2575","Not Recorded","Not Recorded","Inaawood",336
+"2576","Not Recorded","Not Recorded","Inapwood",337
+"2610","Not Recorded","Not Recorded","Inaisern hemlock",338
+"2611","Not Recorded","Not Recorded","Ineisern hemlock",339
+"2614","Not Recorded","Not Recorded","Inayllaern hemlock",340
+"2615","Not Recorded","Not Recorded","Ineyllaern hemlock",341
+"2616","Not Recorded","Not Recorded","Ineaican elm",342
+"2617","Not Recorded","Not Recorded","Inep elm",343
+"2619","Not Recorded","Not Recorded","Ine elm ; cork elm",344
+"2620","Not Recorded","Not Recorded","Inaalifornicaon myrtle ; California bay laurel",345
+"2628","South America","Colombia1254","Buenaventure",346
+"2629","South America","Colombia1255","Buenaventure",347
+"2630","South America","Colombia1256","Buenaventure",348
+"2631","South America","Colombia1257","Buenaventure",349
+"2632","South America","Brazil","Itaubal",350
+"2640","South America","Brazil","Carapanantuba, Macapa",351
+"2658","South America","Colombia1258","Sevilla, Valle Del Cauca",352
+"2659","South America","Colombia1259","Sevilla, Valle Del Cauca",353
+"2660","South America","Colombia1260","Sevilla, Valle Del Cauca",354
